@@ -8,4 +8,4 @@ The primary objective is to predict the aggregate stock price of WEAT and CORN f
 
 ---
 
-**Update**: In case an error occurs when opening the `final_report.pdf` file for this project, you can also access it <a href="https://www.dropbox.com/scl/fi/7q09qnhnvznv06wdo1d9c/stock_analysis_final_report.pdf?rlkey=jejkj6rbtdpvazlp4j2ykwnp2&st=8v2ntcau&dl=0" target="_blank">here</a>.
+**Update**: In case an error occurs when opening the `final_report.pdf` file for this project, you can also access it [here](https://www.dropbox.com/scl/fi/7q09qnhnvznv06wdo1d9c/stock_analysis_final_report.pdf?rlkey=jejkj6rbtdpvazlp4j2ykwnp2&st=8v2ntcau&dl=0).
